@@ -186,19 +186,3 @@ img {
   border: 0 solid black;
   padding: 20px;
 }
-
-@media screen and (max-width: 480px){
-    body{
-        background-size: 100%;
-    }
-    h1{
-        font-size: 35px;
-    }
-    .menu {
-    margin-bottom: 10px;
-    }
-    .menu > ul > li > a {
-    font-size: 15px;
-    padding: 8px 15px 8px 20px;
-    font-size: 7px;   
-}
